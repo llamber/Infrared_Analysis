@@ -14,9 +14,12 @@ If you are using CH340 chip (clone of arduino Nano) please download firmware to 
 
 Download and install firmware from : 
 ```
-https://www.elegoo.com/pages/arduino-kits-support-files
+https://drive.google.com/drive/folders/1BerTOhL35zJfEvD375koyN-I9L-xiOlM
 ```
+
 or other depending on the brand of your nano.
+
+INFO : during installation select "USB to UART Bridge"
 
 It should now appear fine in [Arduino IDE](https://www.arduino.cc/en/Main/OldSoftwareReleases) under tools => port
 
